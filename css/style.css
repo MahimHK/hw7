@@ -1,0 +1,44 @@
+body{
+	background: blanchedalmond;
+}
+
+#blue{
+	color: blue;
+	background-color: red;
+	border: yellow solid;
+	margin: 70px;
+	padding: 30px;
+}
+.box{
+	background-color: green;
+	padding: 25px;
+	margin: 35px;
+	outline: dotted 20px red ;
+}
+h2{
+	color: white;
+	text-align: center;
+	text-decoration: underline;
+	text-transform: capitalize;
+}
+a:link {
+  color: red;
+}
+a:visited {
+  color: green;
+}
+a:hover {
+  color: hotpink;
+}
+ul{
+	list-style-type: circle;
+}
+table{
+	width: 100%;
+}
+table, th, td{
+	border: 1px solid;
+	text-align: left;
+	padding: 15px;
+}
+tr:hover {background-color: coral;}
